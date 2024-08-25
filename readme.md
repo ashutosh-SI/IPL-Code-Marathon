@@ -1,0 +1,1 @@
+This is a fullstack project based on the IPL case study that was given during the code marathon.
